@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://linsyorozuya.github.io/fantastic-life</id>
+    <id>https://linsyorozuya.github.io/life</id>
     <title>灰桑</title>
-    <updated>2020-05-15T08:23:38.824Z</updated>
+    <updated>2020-05-15T22:27:59.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://linsyorozuya.github.io/fantastic-life"/>
-    <link rel="self" href="https://linsyorozuya.github.io/fantastic-life/atom.xml"/>
+    <link rel="alternate" href="https://linsyorozuya.github.io/life"/>
+    <link rel="self" href="https://linsyorozuya.github.io/life/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://linsyorozuya.github.io/fantastic-life/images/avatar.png</logo>
-    <icon>https://linsyorozuya.github.io/fantastic-life/favicon.ico</icon>
+    <logo>https://linsyorozuya.github.io/life/images/avatar.png</logo>
+    <icon>https://linsyorozuya.github.io/life/favicon.ico</icon>
     <rights>All rights reserved 2020, 灰桑</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://linsyorozuya.github.io/fantastic-life/post/hello-gridea/</id>
-        <link href="https://linsyorozuya.github.io/fantastic-life/post/hello-gridea/">
+        <id>https://linsyorozuya.github.io/life/post/hello-gridea/</id>
+        <link href="https://linsyorozuya.github.io/life/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
