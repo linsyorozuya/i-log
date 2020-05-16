@@ -9626,5 +9626,6 @@ photos .photo:last-child {
   padding-top: 8px;
 }
 
-      .grid-container{max-width:200px !important}
+      div.text { font-size: 16px !important; }
+.grid-container{max-width:700px;}
     
