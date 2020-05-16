@@ -9625,3 +9625,6 @@ photos .photo:last-child {
   border-top: 1px solid #aaa;
   padding-top: 8px;
 }
+
+      .grid-container{max-width:200px !important}
+    
