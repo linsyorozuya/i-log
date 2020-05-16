@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linsyorozuya.github.io/life</id>
     <title>灰桑</title>
-    <updated>2020-05-16T03:03:01.410Z</updated>
+    <updated>2020-05-16T07:27:52.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linsyorozuya.github.io/life"/>
     <link rel="self" href="https://linsyorozuya.github.io/life/atom.xml"/>
@@ -11,35 +11,289 @@
     <icon>https://linsyorozuya.github.io/life/favicon.ico</icon>
     <rights>All rights reserved 2020, 灰桑</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://linsyorozuya.github.io/life/hello-gridea/</id>
-        <link href="https://linsyorozuya.github.io/life/hello-gridea/">
+        <title type="html"><![CDATA[2020 一月灰]]></title>
+        <id>https://linsyorozuya.github.io/life/2020-yi-yue-hui/</id>
+        <link href="https://linsyorozuya.github.io/life/2020-yi-yue-hui/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-01-27T07:25:17.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>2020 的第一个月还没有过完，事情就一件一件毫无预兆的发生。2020 不是世界末日，但是是以一个悲戚的一月开始的。</p>
+</blockquote>
+<h2 id="科比">🏀 科比</h2>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/IMG_1687.jpeg" alt="科比" loading="lazy"></figure>
+<p>今天一早起床，刷开微博第一条信息尽然是科比去世。心里五味杂陈，不信、难受和悲伤让我不由自主的艹了出声。我自己都有点惊讶于自己的这种情绪的溢出。</p>
+<p>虽然我从来没买过科比的任何相关周边，也没有说过科比是我的偶像。但是科比对我来说是我敬佩和学习的榜样之一。</p>
+<p>我喜欢看他的比赛。NBA 球星那么多，打球优雅的没几个。好胜心强的也没几个。而科比是其中最突出的一个，也是我羡慕且想要学习的那个。</p>
+<p>R.I.P</p>
+<p>惋惜于以后拥有篮球梦的少年只能在视频上了解到科比这个伟大的篮球大师。</p>
+<p>科比明明还那么年轻。</p>
+<p>为什么。</p>
+<h2 id="新型冠状病毒">新型冠状病毒</h2>
+<p>早上去药店还是各种买不到口罩和酒精。家里的也用完了想去买的时候才发现没口罩已经寸步难行了。</p>
+<p>到我们从微博上获取到新型冠状病毒的信息时，感染早已发生了一个月。加上武汉 zf 的瞒报，导致民众毫无防备的暴露在传染源下。致使感染随着春运早已扩散到全国。</p>
+<p>有一句话说：“当事情没发生在你身上时，XX 是最安全的。当事情发生在你身上时，XX 是最黑暗的。”。</p>
+<p>在疫情大范围扩散下，人性的黑和人性的光就不由自主在微博这样的平台不断浮现出来。这时候才是最好的机会可以体会到人和人是有着怎样天差地别。譬如微博上各种键盘侠和武汉各种民间志愿者，武汉的 zf 和 河南的 zf。</p>
+<p>人性是禁不起考验的。得承认并接受这世界上确实存在着绝大多数是和你不同的人。</p>
+<p>目前确诊人数处在不断上升的时期。但是随着越来越多的医疗团队、各大企业的物资和当地自愿者参与到其中，并且大家意识到传染病的严重性，避免聚众切断了传播途径。新型冠状病毒的感染人数就会降下来。</p>
+<p><strong>希望疫情能早点结束，不要有更多人感染和去世。</strong></p>
+<p>[notice]灾难并不是死了两万人这样一件事，而是死了一个人这件事，发生了两万次。—— 日本导演北野武评论日本“3·11”地震 [/notice]</p>
+<h2 id="春节">春节</h2>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/IMG_1675.png" alt="辉宝" loading="lazy"></figure>
+<p>因为疫情已经 3 天没出门了。还好过年前大家打了个球吃了个饭。</p>
+<p>今天想去打球，家里已经不让去了。</p>
+<p>早上去买菜，马路上都没什么车和人。一点春节的气息都没有。今年没有抢醋的，倒是出现了抢米的。</p>
+<p>人人戴口罩，酒店都开始卖菜了。</p>
+<p><strong>希望 2020 否极泰来。</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019]]></title>
+        <id>https://linsyorozuya.github.io/life/2019/</id>
+        <link href="https://linsyorozuya.github.io/life/2019/">
+        </link>
+        <updated>2020-01-11T07:22:45.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>又一年过去了，今年是个多事之秋。希望明年步入正轨。</p>
+</blockquote>
+<h2 id="工作">工作</h2>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/D573C46F-946B-467A-B8C5-CF9B4600BB0B_1_105_c.jpeg" alt="工位" loading="lazy"></figure>
+<p>上半年公司里空闲期让我们学习了小程序，但是并没有用上。也就自己写了点页面，发现写小程序页面，原来蓝湖里生成的代码完全可以直接用。。。</p>
+<p>后来让我跟他一起写 flutter ，也是学到了挺多。虽然没有很深入的学习，只是停留在能用的阶段。但是对 flutter 也是有了一些了解。</p>
+<p>随着志高的离职和璐姐的被辞，原来轻松有趣的阳光房破裂了。加上公司一直做些内部的项目让自己也失去对这个公司的留恋。</p>
+<p>所以六月辞职了，瞬间成为无业奶爸。当然辞职还有两个原因，一个就是乡下装修爸妈经常不在福州。lulu 一个人有时无法同时照顾辉宝和煮菜家务，也是想在家减轻 lulu 负担多陪陪儿子。二就是想休息一段时间，感觉身体也有点偏离正常的趋势。。。希望调理下身体，陪陪孩子。</p>
+<h2 id="个人项目">个人项目</h2>
+<p>今年根据自己的需求开发了一个可以搜索、收藏很分享歌词的小应用。开发基本结束的时候，才发现歌词类应用也是需要版权才能上架的。结果只能放弃上架，马马虎虎给自己学吉他时候记歌词用了。对于这个 app 的效果和设计，自己还是很喜欢的。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/7E708CE4-086E-4B55-B5EE-DE9C1162313D_1_105_c.jpeg" alt="歌词派" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/E583B243-B378-4DD5-8B25-12B3DDAE6C90_1_105_c.jpeg" alt="歌词派" loading="lazy"></p>
+<h2 id="家庭">家庭</h2>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/09C39201-4098-43D3-8706-1D8EDC921D91_1_105_c.jpeg" alt="辉宝和 lulu" loading="lazy"></figure>
+<p>辉宝越来越大了，从不会说话到咿呀学语。再到模仿说话，再到与你对话。</p>
+<p>一切都变得有趣，但是也越来越不受控制。当然教育孩子本来就不应该控制，是需要同理。在这点上做父母真的很难，但这也是必须需要学习的。辉宝今年生的最大的病就是最近刚好的鼻窦炎，流鼻有一个多月。上网查病真是什么都能查出大毛病，越看越焦虑。父母心真的都是替小孩操碎的。后面抗生素吃了一周也没见好转，还起了疹子。索性把药停了，结果慢慢好了。所以也不知道是不是抗生素吃好的。</p>
+<p>随着下半年待业在家，越来越觉得生活上的开销太大。财务上的问题很严重。虽然待业前也发现每月开销基本与收入持平，但是那时候还是意思到这个问题的严重性。俗话说谈钱伤感情，却是如此。越在乎什么你的精力和关注的点越聚焦在上面，也就出现管窥的现象。</p>
+<p>凡是都是有两面性，一边当我的更多的注意力在钱上时，就开始在钱的节流上想做更多努力，尽量避免生活中的一些不必要开支。导致的结果就是 lulu 觉得我变抠门了。生活中为钱而产生的小争吵也开始增多。一边是慢慢的我开始觉得要学习理财投资相关的知识的重要性，开始看更多的书来了解并实践理财投资。</p>
+<p>年底统计的全年的消费和收入，结果也是吓人。买了一些股票和基金，目前收益不多，但也是个好的开始。</p>
+<p>新年最大的愿望就是全家身体健康和家庭和睦。然后财务上开源节流。</p>
+<h2 id="装修">装修</h2>
+<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/A0482E30-759D-4081-B1E6-B9154BBD6BA0_1_102_o.jpeg" alt="乡下新家" loading="lazy"></figure>
+<p>从毛呸到现在的样子，基本是按我和 lulu 的想法装出的样子。目前看还是挺满意的。这次装修没有包给别人做，都是爸妈自己找各种工种来做的。虽然价钱上好像也没比全包少。但是东西和风格毕竟也都是自己选的。</p>
+<h2 id="筹备婚礼">筹备婚礼</h2>
+<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/7166EEF4-D18F-438F-8B26-267528DBAD1A_1_105_c.jpeg" alt="化妆" loading="lazy"></figure>
+<p>定了明年 2 月 9 号婚礼。基本婚礼的事情都是 lulu 一个人去弄得。因为我对婚礼实在没有什么要求，对于在那么多人面前做一件事对于我来说真的是一件尴尬和不情愿的事情。更多的只是一种长辈们流传的形式大于婚礼本身的意义。</p>
+<h2 id="旅游">旅游</h2>
+<figure data-type="image" tabindex="5"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/0ABB3B6F-BA67-4375-8302-0B67BB751ACA_1_105_c.jpeg" alt="桃花岛" loading="lazy"></figure>
+<p>上半年去了桃花岛和杭州一趟。在宁波冰封丈母娘家住了一晚，桃花岛住了一晚，杭州住了一晚。</p>
+<p>这也是第一次带辉宝出远门，得出的结论孩子太小真的不适合带出门。累的一比。出发前想象的是辉宝在动车上酣睡，我们玩玩手机就到了。结果却是辉宝根本就没睡过，把 lulu 都带哭了。</p>
+<p>冰封丈母娘好热情，煮了一大桌的菜。都有点不好意思。。。</p>
+<p>桃花岛呢其实我们就去了一会海边就回去了。对于开几个小时的车来说，这个确实有点得失比有点大，但是主要是大家一起去玩还是挺开心的。</p>
+<p>回杭州后和大家几个聚了个餐，也是好久没见了。了解了大家的近况。大家好像也都没怎么变，只是都各自为生活奔波的有点大人的磨样了。</p>
+<p>最后一天我们一家去西湖逛了逛，做了观光车绕湖一圈。就匆匆去火车站回家了。</p>
+<figure data-type="image" tabindex="6"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/897EC90D-B54B-4984-B11D-CB626C11B130_1_105_c.jpeg" alt="香港尖沙咀" loading="lazy"></figure>
+<p>下半年去了香港一趟，给辉宝买保险。也是从我们回来那天香港开始了大骚乱。</p>
+<p>希望明年也能抽出时间，一家人出门玩几天。毕竟辉宝大了，应该没那么累了。</p>
+<h2 id="阅读">阅读</h2>
+<p>一共读了 16 本书。有 5 本是在前 11 个月读的，剩下 11 本 12 月读的全是理财的书。才发现原来自己也可以一下读这么多书。</p>
+<ul>
+<li>P.E.T.父母效能训练</li>
+<li>冲榜</li>
+<li>稀缺</li>
+<li>自控力</li>
+<li>如何变的有思想</li>
+<li>价值投资实战手册</li>
+<li>富爸爸穷爸爸</li>
+<li>小狗钱钱</li>
+<li>小狗钱钱2</li>
+<li>好好赚钱</li>
+<li>给新手的极简股票课</li>
+<li>基金投资入门与实战技巧</li>
+<li>傻瓜式投资</li>
+<li>财务自由之路③</li>
+<li>财务自由之路②</li>
+<li>财务自由之路①</li>
+</ul>
+<h2 id="总结">总结</h2>
+<p>今年算是多事的一年，发现了一些人性的丑陋。也开始发现自己的不足。</p>
+<p>最大的收获是懂得了财商的重要性。虽然有点晚了，但是亡羊补牢为时不晚。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2018]]></title>
+        <id>https://linsyorozuya.github.io/life/2018/</id>
+        <link href="https://linsyorozuya.github.io/life/2018/">
+        </link>
+        <updated>2019-03-02T07:19:51.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>今年发生的事情挺多的。大部分都是好的，一切也是往好的方向发展吧。身份的转变和工作环境的变化，身边又换了一波人。</p>
+</blockquote>
+<h2 id="家庭">家庭</h2>
+<p>最大的感触就是不知不觉已经作为一个爸爸的身份一年了。<br>
+辉宝长得很快，看着他不会爬到会爬，不会走到会走，不会说话到说话。从不会到会真的是很神奇的事情，某个时间点突然量变到质变。一下就会爬，就会走，就会说话。感叹于生命有一种大道至简的感觉。一切的质变都归结于不断的积累和尝试。</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/IMG_4400-1.jpeg" alt="" loading="lazy"></figure>
+<h2 id="工作">工作</h2>
+<p>到新公司也快一年的。新的工作环境新的同事都让我很快适应。iOS 在工作中也没有更多深入的进阶，一直都是业务驱动工作。不过得益于志哥大神的水平还是学到了一些东西，并佩服于志哥代码上的深度和广度。<br>
+来到公司后，第一次体会到团队开发的样子。<br>
+有好的一面也有不好的一面吧。<br>
+好的一面，可以看别人是怎么写代码的。从中学习好的地方，避免其不好的地方。<br>
+坏的一面，修改别人的代码是痛苦的。别人的代码毕竟是别人的，他写的时候按他的知识面来构建代码。好的代码你可以一眼看出并理解其用意，而不好的代码，错综复杂，难以理解看得水深火热才能摸到其中的逻辑和想法。<br>
+团队开发最重要的架构的选取和权衡，一旦支架子支的不对。后面搬砖都费劲了。</p>
+<p>值得一提的是后半年事情少，志哥让我们学了几周小程序和几周的 flutter。<br>
+关于小程序，学习的时候顺便又熟悉了一遍 JavaScript 和 flex 布局。虽然小程序有坑，当时在小项目上，小程序是值得可以尝试的。<br>
+Flutter 学习了几周后，因为要开始新的项目暂时停止了。但是也学习了基本的控件的使用，如果项目不涉及影视频方面的话，用 flutter 开发还是挺快的。</p>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/IMG_2095.jpeg" alt="" loading="lazy"></figure>
+<h2 id="旅行">旅行</h2>
+<p>10 月份和德伟去了趟瑞士🇨🇭，也是第一次出国。很多事情都是第一次，很新鲜很有趣。一路上用蹩脚的英语和好几对外国的老夫妇聊天。一个个都很热情有趣，感觉说英语也并没有那么难。<br>
+也感觉自己跟德伟不一样的地方在于，德伟看的是大自然的无限风光，而我喜欢风景但更喜欢的是去了解每个地方的人文吧。<br>
+这次国外旅行给我感触最深的是当地人悠闲而丰富的生活吧。每个景点到处可见高龄的老夫老妻和带娃的年轻夫妇，徒步登山郊游各处游玩。<br>
+相较而下国内在爸妈这个年龄段还依然肩负着照顾儿孙的重担。自己也得益于父母的照顾，在工资微薄的当下不用去担忧房车的压力。这一切我知道都不是理所应当的，相比大多数人来说我很感激我的父母能给我这样的条件。我一直都觉的自己是幸运的，也很知足。希望自己能有一天更好的回馈给自己的家人。</p>
+<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/IMG_2563.jpeg" alt="" loading="lazy"></figure>
+<h2 id="app">APP</h2>
+<p>终于上线了个人的第一款 app（CoinsAlbum）。虽然没什么人用，但是也算是达成一项目标。设计上遵循了能使用原始控件就不用第三方库的原则，希望写出来的是个简约好看的产品。最后的结果我自己还算满意的吧。希望今年能做出更多人使用的东西吧~</p>
+<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/66f4d5d4-8eb6-48dc-bd99-03ba396f1008.jpeg" alt="" loading="lazy"></figure>
+<h2 id="2019">2019</h2>
+<p>学会如何更高效的学习。寻找一个适合自己的增加可持续收入的方向。<br>
+小目标依然是读更多书，学弹琴。</p>
+<p><strong>Be a better myself !!</strong><br>
+<strong>Life is fantastic !!!</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2017]]></title>
+        <id>https://linsyorozuya.github.io/life/2017/</id>
+        <link href="https://linsyorozuya.github.io/life/2017/">
+        </link>
+        <updated>2018-03-02T07:18:58.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="悲">悲</h3>
+<p>最爱我的奶奶去世了… 直到现在每次想起奶奶，心里还是难受想哭。快一年了依然无法释怀的一个原因很可能是后悔和遗憾吧。后悔没能多陪陪奶奶，遗憾没能在奶奶还能说话的时候赶回去陪着奶奶。每每想起奶奶去世前痛苦的表情，心里都是一顿阵痛… 唯一欣慰的是在奶奶临走前告诉了奶奶老婆怀孕的消息，临走前少了一桩心事吧。<br>
+如果死亡是通往另一个世界，孙子希望您在那边一切安好…</p>
+<h3 id="喜">喜</h3>
+<p>一年内多了丈夫和父亲这两个标签。也多了两个有意义的日期：<br>
+2.18: 订婚的日子<br>
+12.3: 儿子出生的日子<br>
+没想到自己这么快就做了爸爸，感觉自己也还是个孩子</p>
+<p>老婆很好～<br>
+所以家庭上一直很和睦，家里没有任何压力～</p>
+<p>希望家庭一直和睦，家人一直健康。<br>
+不争而随心、知足而长乐<br>
+一直是我向往的生活</p>
+<h2 id="工作">工作</h2>
+<p>再一个月就是在英捷的第三个年头了<br>
+我喜欢这的悠闲<br>
+虽然学习效率不高<br>
+但也是自由的学习</p>
+<p>因为工作任务不多加上效率也提高了<br>
+所以依然经常迟到然后早退为公司省下来一大笔工资<br>
+但是效率高和为公司省钱却并没有受到公司的理解和赏识😂还要被批斗…<br>
+每每看到工资扣的七零八落的，只好微微一笑而过🙃</p>
+<p>当然闲着的时候也没瞎闲着<br>
+接了个外包做做<br>
+用 swift 练习个小 app，希望今年至少上线个自己的 app</p>
+<p>想换个工作环境了<br>
+自己一个人开发太久了</p>
+<h2 id="其他">其他</h2>
+<p>看了几本书<br>
+没去成冰岛<br>
+吉他又废了<br>
+…</p>
+<p><strong>希望 2018 有比较大的不同吧～</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2015]]></title>
+        <id>https://linsyorozuya.github.io/life/2015/</id>
+        <link href="https://linsyorozuya.github.io/life/2015/">
+        </link>
+        <updated>2015-12-31T07:15:45.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>致我们心中尚未崩坏的地方</p>
+</blockquote>
+<p>天气冷</p>
+<p>听着五月天的闽南语新歌《勇敢》</p>
+<p>让我想起了那么冷只穿一件衬衫，抱着吉他蹩脚的拨弄吉他在五月天的的演唱会上<br>
+哼着临时学的蹩脚的闽南《憨人》但是心是热的，对那时候的我来说那是一场梦</p>
+<p>像梦一样，庆幸自己是幸运的。一切都那么顺其自然，一直很知足</p>
+<p>喜欢的，不被喜欢的</p>
+<p>都一样感谢</p>
+<p>希望我们能在尚未崩坏的地方，找到自己的出头天</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/IMG_0188_meitu_1.jpg" alt="" loading="lazy"></figure>
+<blockquote>
+<p>关于工作</p>
+</blockquote>
+<p>今天小叶也离职了。这样开心学基本各个职位全离职。虽然还会招，但和我来的时候已经完全不是同一个环境了</p>
+<p>这一年，从刚入公司自学到上线了真正意义的独立开发的 iOS App。说实话从 0 开始，没有人指导。代码完全就是做到哪写到哪，完全是没有架构而言。所以代码是混乱的，虽然后来也尽量做了优化、解耦，但是还是几块功能没法整理。也有服务端的混乱导致的无法下手</p>
+<p>总之项目，从我进公司一段时间就觉得项目组就是完全混乱无序的，需求没有经过辩证，感觉需求应该是大家讨论分析好坏再决定是否有必要再开始安排执行。而且能明显感觉项目上流程是的缺陷，可能导致后来的许多无用功</p>
+<p>功能的好坏而且是否有必要在自己的项目上使用，都必须从自己定位出发。可以很好地借鉴，但不能一味模仿。当然经验的积累是也是从模仿开始，但是不能只是模仿</p>
+<p>期间自作主张，改了部分功能的。也有些不必要的功能，就没做进去。后来证明多少是对的</p>
+<p><strong>一个好的产品，需要知道什么该有什么不该有，怎么样好看怎样不好看，如何体验和设计是好的体验和设计，任何人都要学会独立思考，产品更不能缺这点</strong></p>
+<p>在公司的这段时间，自己从一个新员工，变成现在估计是最老的几个员工之一。可以看出公司的变动是不正常的。开心学项目的同事几乎全部离职。从技术开始，接着运营，到项目经理，到产品，最后运营能走的全走了</p>
+<p>主要的原因就是由原来的双休和老板的一意孤行。在自己本身薪资待遇低于平均水准的情况下，公司单方面的决定双休改成大小周，先不说违法合同违约和没有任何待遇上的补偿措施。自以为的员工会和公司共存亡，这般的一厢情愿的想法。我不知道老板是从哪里来的自信</p>
+<p>结果就是有经验的员工陆续出走，各奔前程罢了</p>
+<p><strong>一个好的公司，需要先尊重员工的利益，员工才会保护公司的利益</strong></p>
+<p>之所以自己没走，一方面由于人员大量变动开心学项目进展基本停滞状态。一方面接的同事坑人的外包还未完结。（钱都没拿到手）但是最大一个原因觉得这是个学习的好机会。</p>
+<p>就像谁说的：<strong>在公司，谁会给你时间学习其他项目需求外的东西，真正学习的时间都是下班后的几个小时。这样，我是幸运的。我上班的时候是有时间学习的。所以这是我一直不急的走的原因。自己还是水平不高</strong></p>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/B1D3A0C7-4E7D-4CE0-8CD0-EA2B9580123C_meitu_2.jpg" alt="" loading="lazy"></figure>
+<blockquote>
+<p>关于生活</p>
+</blockquote>
+<p>不知不觉也工作了开一年了，感谢有这样一个离家 10 分钟电驴的距离，中午还能回去吃饭睡觉。打卡也不严。学习开发</p>
+<p>这一年看的书不多估计两只手能数过来，不过比起以前也是有很大的进步。以前把时间都花费在发呆，有的没的是事情上了。现在慢慢懂得该做些什么，目标也渐渐清晰起来。不在那么茫无目的。</p>
+<p>读过的书目这里记录下勉励自己：</p>
+<p><a href="http://book.douban.com/subject/25911978/">知行合一王阳明（1472—1529）</a>:</p>
+<p>值得一读的书，讲了悟道的一声。理解什么是知行合一。想起杭州的有所小学之前路过好像叫阳明小学，门口写着知行合一。那时候可不认识心学大师。=。=</p>
+<p>王小波的书籍：</p>
+<p>时代三部曲，特立独行的猪，沉默的大多数。幽默、有趣的文笔，也有很多赤裸的描写（你懂得）。什么小和尚，乳，XXOO 之类的（但是这些不是重点）。重点是他的逻辑。想不出他还是程序猿</p>
+<p><a href="http://book.douban.com/subject/25984204/">乖，摸摸头</a>：</p>
+<p>讲了大冰丽江生活的遇到的各类朋友的故事，很贴近生活。看到很多不同与自己的生活。躲起来挺有意思的，也有感动人与人的各种复杂感情</p>
+<p><a href="http://book.douban.com/subject/20427187/">看见</a>:</p>
+<p>感觉是一本讲述柴静关于自己处事上的反复考量，对于记者这份职业的思考。怎样才能做得客观。怎样不参杂个人感情做最正确的判断。</p>
+<p>很喜欢里面有句话：一个世界如果只是按黑白强弱分，它很可能只是一个立方体，你把它推到，另一面朝上，原样存在</p>
+<p><a href="http://book.douban.com/subject/25826578/">MacTalk 人生元编程</a>:</p>
+<p>讲了一些 Mac 使用的技巧，讲了一些人文职场的见解。挺有趣也有用的一本书</p>
+<p><a href="http://book.douban.com/subject/25724948/">黑客与画家</a>：</p>
+<p>关于书呆子那篇映象比较深刻。降到了编程、创业方面的建议。值得一读</p>
+<p><a href="http://book.douban.com/subject/4242172/">催眠师手记、天才在左疯子在右</a>：</p>
+<p>这两本是荔枝 fm 听完的（FM57898 看不见的世界：推荐这主播声音很好听，读起来很有意思）。这两部书同一个人写的，我听的是很入迷。讲了很多让你觉得能在智商上碾压你的疯子，大部分疯子是对某个点研究或执着倒了常人达不到的境界，和所有人都不一样成了不同的那个</p>
+<p><a href="http://book.douban.com/subject/25862578/">解忧杂货铺</a>:</p>
+<p>挺有趣的故事设定，超越时空的信件来往。</p>
+<p><a href="http://book.douban.com/subject/6832303/">别相信任何人</a>：</p>
+<p>记忆只能保存一天怎么办，写日记。每天起床经历同样的事，看下之前写的日记告诉自己是谁，为什么这样。。。</p>
+<p><a href="http://book.douban.com/subject/25829244/">Effective Objective-C 2.0</a>:</p>
+<p>还在看。感觉很有帮助的一本书。讲了一些之前很多不懂的知识点。</p>
+<blockquote>
+<p>2016</p>
+</blockquote>
+<p>学更多东西，涉猎更多方面</p>
+<p>做更多提升幸福感的事</p>
+<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/IMG_0278_meitu_2.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浮生一日，又一日]]></title>
+        <id>https://linsyorozuya.github.io/life/fu-sheng-yi-ri-you-yi-ri/</id>
+        <link href="https://linsyorozuya.github.io/life/fu-sheng-yi-ri-you-yi-ri/">
+        </link>
+        <updated>2015-12-07T07:12:23.000Z</updated>
+        <content type="html"><![CDATA[<p>常常迷惑、无知又懒散，之后往往又开始羞耻于懒散，无知和迷惑的自己。找个安静的地方挪个窝，有空到这记下点自己浮生。未来太遥远谁知道呢，记录些点滴，也许无聊之极，也许回忆满满。总之留点东西也不是什么坏事。</p>
+<p>对吧。</p>
+<p>希望有天能做点让自己都觉得自己了不起的事。</p>
+<p>你说呢。</p>
+<p>哈哈！</p>
+<p><strong>近期想进一步学习的方面：</strong></p>
+<ol>
+<li><code>layer 动画</code></li>
+<li><code>转场 动画</code></li>
+<li>~<code>Behavior 模式</code>~<br>
+~* <code>学习并且敲打了一遍，还是有些不明白的地方之后写篇博客记录下</code>~</li>
+<li><code>MJ 刷新控件源码阅读，并敲一遍</code></li>
+</ol>
+<p><strong>每日尽量完成的：</strong></p>
+<ol>
+<li><code>阅读 4 条《Effective Objective-C 2.0》，并记录 4 条笔记在博客中</code></li>
+<li><code>至少阅读半小时书</code></li>
+<li><code>练习吉他半个小时</code></li>
+</ol>
+<p><strong>犹豫不决的是：</strong></p>
+<ol>
+<li><code>是否去找个老师系统的学学吉他=。=。（暂时决定先不找了，看看许岑的指弹教程先）</code></li>
+</ol>
 ]]></content>
     </entry>
 </feed>
