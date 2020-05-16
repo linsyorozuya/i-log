@@ -9627,5 +9627,5 @@ photos .photo:last-child {
 }
 
       div.text {font-size: 199px !important }
-.grid-container{max-width:700px;}
+.grid-container{max-width:700px !important ;}
     
