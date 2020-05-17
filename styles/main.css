@@ -9625,3 +9625,7 @@ photos .photo:last-child {
   border-top: 1px solid #aaa;
   padding-top: 8px;
 }
+
+      div.text {font-size: 17px !important }
+
+    
