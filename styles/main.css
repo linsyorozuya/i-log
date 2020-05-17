@@ -9626,7 +9626,8 @@ photos .photo:last-child {
   padding-top: 8px;
 }
 
-      .grid-container{max-width:700px !important }
+      /*自定义*/
+.grid-container{max-width:800px !important }
 div.text {font-size: 17px !important }
 
     
