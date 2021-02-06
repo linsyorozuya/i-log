@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://life.linsyorozuya.com</id>
     <title>灰桑浮生</title>
-    <updated>2021-02-06T05:57:29.529Z</updated>
+    <updated>2021-02-06T06:37:00.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://life.linsyorozuya.com"/>
     <link rel="self" href="https://life.linsyorozuya.com/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://life.linsyorozuya.com/images/avatar.png</logo>
     <icon>https://life.linsyorozuya.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 灰桑浮生</rights>
+    <entry>
+        <title type="html"><![CDATA[⌨️年0202]]></title>
+        <id>https://life.linsyorozuya.com/年0202/</id>
+        <link href="https://life.linsyorozuya.com/年0202/">
+        </link>
+        <updated>2021-02-05T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⌨️年0202.1]]></title>
         <id>https://life.linsyorozuya.com/2020 灰色的一月/</id>
