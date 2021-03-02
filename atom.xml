@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://life.linsyorozuya.com</id>
     <title>灰桑浮生</title>
-    <updated>2021-02-06T06:41:49.488Z</updated>
+    <updated>2021-03-02T22:53:24.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://life.linsyorozuya.com"/>
     <link rel="self" href="https://life.linsyorozuya.com/atom.xml"/>
@@ -16,11 +16,33 @@
         <link href="https://life.linsyorozuya.com/年0202/">
         </link>
         <updated>2021-02-05T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>从 19 年算起辞职在家带娃休息了差不多整整一年。</p>
+</blockquote>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/86C1F924-0A87-4CF2-A35E-73BB0757C239_1_105_c.jpeg" alt="pic" loading="lazy"></figure>
+<h3 id="家庭">家庭</h3>
+<p>一切和睦。<br>
+偶尔有些小争吵和误解，但是也都能和好如初。对于我来说一个平凡的生活，离不开和睦的家庭氛围。所以一家和气才能让各自能心平气和的做自己喜欢的事，才能交流顺畅减少分歧相互理解。增进彼此之间相互了解。嗯。所以其实我说的家庭关系其实很大一部分取决于婆媳关系关系是否和睦。🤣因为夹在中间的滋味真的很不好受。懂得人应该都懂吧。</p>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/A08DB83F-B376-47F3-98CE-579125BB4CE2_1_105_c.jpeg" alt="pic1" loading="lazy"></figure>
+<h3 id="教育">教育</h3>
+<p>待业在家陪着小辉宝不知不觉的从2岁到了3岁多，孩子说话越来越流利，越来越多自己的脾气和想法。就越发得教育孩子真的是一件无比困难的事情，以至于开始理解以前父母打骂教育时的无奈心情。<br>
+教育孩子不就是属于控制三分法中自己只能控制其中一部分的那一类最棘手和无力的事么。看了一些书很多时候就算知道大声训斥，并不能起到什么作用。但是依然无法很好的控制当时的情绪。而且不知不觉可能伤害到和孩子间的感情，其实我们以为他们什么都不懂，但其实到了3岁他们可能真的什么都懂了。<br>
+因为前几天他拿着皂基玩，在我劝说无果且担心他吃进嘴里的情况下，强行将他的皂基拿走并警告他我要扔掉后，非常伤心地哭了一阵。晚上和他洗澡的时候，他说不想和我洗澡，然后我转移话题忽悠过去一起洗澡。接着我问他是否生我的气了，他转过头去然后轻轻地点点头。看着孩子的表情，我知道他是真的伤心了。我就和他解释了一遍，为什么我抢走他的东西，为什么这么做并跟他说爸爸下次尽量不这么做了，对不起能原谅爸爸么？他点了点头。表情突然就开朗起来，开始主动说其他的事情了。孩子是真诚的，只要你对他也是真诚的。</p>
+<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/linsyorozuya/Pics@master/uPic/E16F86C1-489E-4F50-8E2A-17A5F08972A3_1_201_a.heic" alt="pic2" loading="lazy"></figure>
+<h2 id="面试工作">面试工作</h2>
+<p>待业期间，除了学习之外。也跟大师一起做了外包，除了赚点钱外，主要是不至于待业期间，对代码产生生疏感。而且外包使用 swift 开始，正好转到 swift 开发实践真正的项目。<br>
+在此期间，也在时常在 boss 上，观察当前iOS开发的职位情况。了解有哪些感兴趣的公司、权衡距离和期望薪资来决定准备去哪家公司面试。在我的期望中，优先级最高的其实还是离家10分钟车程范围，工资最高且公司最好相对较大的。因此一开始就关注了宝宝巴士相关的职位，期间一波三折去了面试。面试也通过了，并且主管开始微信和我沟通设备的问题，结果入职前hr打电话说找到更合适的人。后来询问主管得知他也不清楚，并问清楚后说是背调有问题。这中间又是一段狗血的事情，就不再赘述了。反正后来和现公司同事聊天中，也了解到宝宝巴士公司hr相关事情。虽然不了解公司内部如何，但是对该公司 hr 有了一定的了解。。。<br>
+后来准备其他公司去面试时，阴差阳错地被井盖的杨大佬找到。还是从公众号给我发消息，我老婆一度以为是骗子。接着就了解到井盖这个项目，并且对招聘中写着使用 SwiftUI 开发感到惊讶和好奇。没想到在福州这种地方竟然会有用才发布一年多的语言，来开发项目的。接着就去173面试了。然后就挂了。也不是说面试的问题多难，只是有些问题没接触过或者有些看过又忘了。<br>
+<strong>嗯，没错我就是天赋一般般的实干型程序员🤖。</strong><br>
+本来以为到此为止，杨大佬结果又给了我一次面试机会。二面和三面基本都是了解个人的非技术面，然后就过了。回头想想招个技术面没过感觉有点冒险。还是感谢杨大佬给了我这个难的的机会。用 SwiftUI 写项目在全国可能都没几个的机会🖥。</p>
+<h2 id="理财">理财</h2>
+<h2 id="学习">学习</h2>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[⌨️年0202.1]]></title>
-        <id>https://life.linsyorozuya.com/2020 灰色的一月/</id>
-        <link href="https://life.linsyorozuya.com/2020 灰色的一月/">
+        <id>https://life.linsyorozuya.com/⌨️年0202.1/</id>
+        <link href="https://life.linsyorozuya.com/⌨️年0202.1/">
         </link>
         <updated>2020-01-26T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
